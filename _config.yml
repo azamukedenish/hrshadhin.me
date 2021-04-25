@@ -1,17 +1,17 @@
 # This config file is meant for settings that affect entire website.
 
 # Name of website
-title: H.R. Shadhin
+title: Denish Azamuke
 
 # Name to show in the footer
-author: H.R. Shadhin
+author: Denish
 
 # Short description of your site
 share-description: Software Engineer / System Admin / GNU+Linux Lover
 
 # site base url
 baseurl: # keep it empty, otherwise assets file will massup
-seo-base-url: https://hrshadhin.me
+seo-base-url: https://denishazamuke.github.io
 
 # --- List of links in the navigation bar --- #
 navbar-links:
