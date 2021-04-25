@@ -11,7 +11,7 @@ share-description: Software Engineer / System Admin / GNU+Linux Lover
 
 # site base url
 baseurl: # keep it empty, otherwise assets file will massup
-seo-base-url: https://denishazamuke.github.io
+seo-base-url: https://azamukedenish.github.io
 
 # --- List of links in the navigation bar --- #
 navbar-links:
